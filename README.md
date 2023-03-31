@@ -1,4 +1,4 @@
-#Therapi.Ai
+<h1>Therapi.Ai</h1>
 
 Therapi.AI is a mental health chatbot that aims to provide accessible and affordable mental health services to individuals who are in need of support and guidance. Here are some additional details about the key business aspects of the Therapi.AI business model:
 Chatbot Platform: The foundation of Therapi.AI's business is its chatbot platform, which utilizes artificial intelligence and natural language processing to offer mental health support and guidance to users. The chatbot platform is designed to be user-friendly and accessible, and it can be accessed through a variety of devices, including smartphones, tablets, and desktop computers.
