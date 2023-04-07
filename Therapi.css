@@ -1,0 +1,46 @@
+header {
+    background-image: url(D:\Downloads\Therap.AI.png);
+    background-size: cover;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin: 0 20px;
+  }
+  
+  .nav-links li a {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  .login-signup {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: auto;
+  }
+  
+  .login-signup a {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+  }
